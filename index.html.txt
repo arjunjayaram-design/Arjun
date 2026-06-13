@@ -1,0 +1,17 @@
+<body>
+    <h1>Arjun's Portfolio</h1>
+<link rel="stylesheet" href="style.css">
+
+    <h2>About Me</h2>
+    <p>I am learning web development.</p>
+
+    <h2>Projects</h2>
+    <ul>
+        <li>Personal Website</li>
+        <li>Calculator App</li>
+        <li>Weather App</li>
+    </ul>
+
+    <button>Contact Me</button>
+</body>
+
